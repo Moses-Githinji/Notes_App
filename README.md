@@ -37,7 +37,7 @@ Notes_App is a modern and versatile note-taking application developed using **C#
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/Notes_App.git
+   git clone https://github.com/Moses_Githinji/Notes_App.git
    cd Notes_App
    ```
 
